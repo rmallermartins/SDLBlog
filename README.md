@@ -7,3 +7,5 @@ Each folder refers to a diferent project, that's why each one has it's own main(
 
 ## Setting up SDL lib
 It may be a little tricky to set SDL up. This [Tutorial](http://lazyfoo.net/tutorials/SDL/) explain very well how to do that in many plataforms.
+
+I do not own any of the images used in this repository.
